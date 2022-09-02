@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Shashika dinuwan</h1>
 <h3 align="center">undergraduate at SLIIT</h3>
 <img align="center" alt="coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
