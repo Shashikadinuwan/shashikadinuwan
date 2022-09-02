@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shashika dinuwan</h1>
 <h3 align="center">undergraduate at SLIIT</h3>
-<img align="center" alt="coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="center" width="100" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashikadinuwan&label=Profile%20views&color=0e75b6&style=flat" alt="shashikadinuwan" /> </p>
 
